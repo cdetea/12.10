@@ -1287,70 +1287,125 @@ a {
     margin-bottom: 2rem;
   }
 }
-.cid-uwgE20SXfD {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/mbr-1-1920x1280.jpg");
+.cid-uwxH4tP4wz {
+  background-image: url("../../../assets/images/mbr-2-1920x1280.jpg");
 }
-.cid-uwgE20SXfD .mbr-overlay {
-  background: #fef5ff;
-  opacity: 0.7;
+.cid-uwxH4tP4wz .mbr-fallback-image.disabled {
+  display: none;
 }
-.cid-uwgE20SXfD .item:focus,
-.cid-uwgE20SXfD span:focus {
-  outline: none;
-}
-.cid-uwgE20SXfD .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-}
-.cid-uwgE20SXfD .item-wrapper {
-  position: relative;
-  border-radius: 4px;
-  background: #f2eeee;
+.cid-uwxH4tP4wz .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
   height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-@media (min-width: 992px) {
-  .cid-uwgE20SXfD .item-wrapper .item-content {
-    padding: 2rem 2rem 0;
-  }
-  .cid-uwgE20SXfD .item-wrapper .item-footer {
-    padding: 0 2rem 2rem;
-  }
+  position: absolute;
+  top: 0;
 }
 @media (max-width: 991px) {
-  .cid-uwgE20SXfD .item-wrapper .item-content {
-    padding: 1rem 1rem 0;
-  }
-  .cid-uwgE20SXfD .item-wrapper .item-footer {
-    padding: 0 1rem 1rem;
+  .cid-uwxH4tP4wz .image-wrapper {
+    margin-bottom: 1rem;
   }
 }
-.cid-uwgE20SXfD .mbr-section-btn {
-  margin-top: auto !important;
+.cid-uwxH4tP4wz img {
+  width: 100%;
 }
-.cid-uwgE20SXfD .mbr-section-title {
-  color: #232323;
+@media (min-width: 992px) {
+  .cid-uwxH4tP4wz .text-wrapper {
+    padding: 2rem;
+  }
 }
-.cid-uwgE20SXfD .mbr-text,
-.cid-uwgE20SXfD .mbr-section-btn {
-  text-align: left;
-  color: #353535;
+.cid-uwxH4tP4wz .mbr-section-title {
+  color: #4e1c66;
 }
-.cid-uwgE20SXfD .item-title {
-  text-align: center;
-  color: #3a1265;
+.cid-uwxGVI134S {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
-.cid-uwgE20SXfD .item-subtitle {
-  text-align: left;
-  color: #7b7272;
+.cid-uwxGVI134S .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uwxGVI134S .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uwxGVI134S .content-wrapper {
+  background: #ebf8f0;
+}
+@media (max-width: 991px) {
+  .cid-uwxGVI134S .content-wrapper .row {
+    flex-direction: column-reverse;
+  }
+  .cid-uwxGVI134S .content-wrapper .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uwxGVI134S .content-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-uwxGVI134S .content-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-uwxGVI134S .content-wrapper {
+    padding: 5rem 3rem;
+  }
+  .cid-uwxGVI134S .content-wrapper .text-wrapper {
+    padding-right: 2rem;
+  }
+}
+.cid-uwxGVI134S .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-uwxGVI134S .card-title {
+  color: #4e1c66;
+}
+.cid-uwxHAnGAYx {
+  background-image: url("../../../assets/images/mbr-1-1920x1080.jpg");
+}
+.cid-uwxHAnGAYx .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uwxHAnGAYx .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-uwxHAnGAYx .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uwxHAnGAYx img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-uwxHAnGAYx .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-uwxHAnGAYx .mbr-section-title {
+  color: #4e1c66;
 }
 .cid-uwgBoVYr5X {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-image: url("../../../assets/images/mbr-1920x960.png");
+  background-image: url("../../../assets/images/mbr-1-1920x960.png");
 }
 .cid-uwgBoVYr5X .google-map {
   height: 30rem;
@@ -1893,6 +1948,10 @@ a {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-image: url("../../../assets/images/background3.jpeg");
+}
+.cid-uwmu6rcAnb .mbr-overlay {
+  background: #fafafa;
+  opacity: 0.1;
 }
 .cid-uwmu6rcAnb .item:focus,
 .cid-uwmu6rcAnb span:focus {
