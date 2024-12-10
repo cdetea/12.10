@@ -1296,12 +1296,6 @@ a {
   background: #fef5ff;
   opacity: 0.7;
 }
-.cid-uwgE20SXfD img,
-.cid-uwgE20SXfD .item-img {
-  height: 100%;
-  height: 300px;
-  object-fit: cover;
-}
 .cid-uwgE20SXfD .item:focus,
 .cid-uwgE20SXfD span:focus {
   outline: none;
